@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+April 27, 2018
 
 ### Student Name:  
-(First and Last Name)
+Hayden Ariotti
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This assignment had me edit a HTML and JavaScript file for a weather forecast website to display a 7-day forecast.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://aricamp.github.io/WeatherChannel/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I leanerd what an API key is and what it does.
+2. I learned how JSON is used in conjunction with an API to retrieve data.
+3. Learned several new JavaScript functions related to JSON.
 
